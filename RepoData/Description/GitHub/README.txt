@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🪟️🐍️📖️ The official documentation source repository for Windows 10 Python Edition, a joke project about Windows 10 in the style of Windows RG, but higher quality.
